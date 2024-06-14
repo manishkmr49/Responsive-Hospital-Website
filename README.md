@@ -5,6 +5,10 @@ Welcome to the repository for **Swasthya Kendra**, a comprehensive hospital webs
 
 ![Swasthya Kendra](image/home.gif)
 
+## Live Preview
+
+Check out the live preview of the website [Swasthya Kendra Hospital](https://swasthya-kendra-hospital.netlify.app/).
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
