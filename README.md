@@ -8,6 +8,7 @@ Welcome to the repository for **Swasthya Kendra**, a comprehensive hospital webs
 ## Live Preview
 
 Check out the live preview of the website [Swasthya Kendra Hospital](https://swasthya-kendra-hospital.netlify.app/).
+
 ![Screenshot (210)](https://github.com/manishkmr49/Responsive-Hospital-Website/assets/110106315/c8a70aee-e3a6-4423-aaa8-1eb90ac45aa9)
 
 
